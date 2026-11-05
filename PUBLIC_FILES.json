@@ -1,0 +1,170 @@
+{
+  "scope": "PPT slides 9-11; Case7 archived images and four-channel tensors, Stage0 final scalar metrics",
+  "history": "fresh repository, no private repository ancestry",
+  "files": [
+    {
+      "path": "assets/metric_trends.png",
+      "sha256": "1a96eccd6a0362672e2fec5400e7b33ef75a7595d2e28ef28b39abadc465f2f8"
+    },
+    {
+      "path": "assets/algorithm_effects.png",
+      "sha256": "5dcbfc391fc772fedfdfd1c79fad1f2772d481cdc35f7f7d8d4a4c399d4ec72d"
+    },
+    {
+      "path": "assets/sa/state_flow.png",
+      "sha256": "825c020ab9a8cf7327a822e154a19d298162487314aaf6f7e4b8cca756c1c932"
+    },
+    {
+      "path": "assets/sa/checkpoint_0000.png",
+      "sha256": "98f9aae96d7e4db40a8ee6159174da5c93dacbd44616d3dddec536bca323e489"
+    },
+    {
+      "path": "data/sa/checkpoint_0000.npz",
+      "sha256": "d5c819f0e4f769b04a5a4c73a787ef05557f7058da9458dfbf97a689eddb7f5c"
+    },
+    {
+      "path": "assets/sa/checkpoint_0200.png",
+      "sha256": "f4cbabadab44743ed19734336132cb8839347dd5b869098986d73891fb4ce88c"
+    },
+    {
+      "path": "data/sa/checkpoint_0200.npz",
+      "sha256": "501f7665d06b5b5ffebc270a5ed54d97d6d8d0debe2ba6f6e5857d3a315cf58b"
+    },
+    {
+      "path": "assets/sa/checkpoint_0400.png",
+      "sha256": "276917ac91757bbf332b73c4b5c78faf599c5311875b6e15421e483789d1b8f3"
+    },
+    {
+      "path": "data/sa/checkpoint_0400.npz",
+      "sha256": "fb06fbd420ab0b4c6e7fb7aaf036a091fc4c0bfcd8e09f612704a6c7b873d53f"
+    },
+    {
+      "path": "assets/sa/checkpoint_0600.png",
+      "sha256": "f173fb7ae765cd9622bb33dabaa09aa72bd06bd5b21c4002cb7a5c71608b2cca"
+    },
+    {
+      "path": "data/sa/checkpoint_0600.npz",
+      "sha256": "94dee36ae5ca71b8c2f27823ca03378ebe5ae97f8804b26afcb3f37706f2723f"
+    },
+    {
+      "path": "assets/sa/checkpoint_0800.png",
+      "sha256": "6d08f23aae7084423a05d6879415c7fa1fa9d947cf0ca2ffd07daf0d638feed7"
+    },
+    {
+      "path": "data/sa/checkpoint_0800.npz",
+      "sha256": "3ba7d1ad4d2172e11c3f1a61e563a74d7414481f93b43aa4f68635f8fc8dbedd"
+    },
+    {
+      "path": "assets/analytical/state_flow.png",
+      "sha256": "e4bc535df4004832c02a18520946f0ecffcfb46e4870c280da68e2689af43141"
+    },
+    {
+      "path": "assets/analytical/checkpoint_0000.png",
+      "sha256": "503ac1c13ad6437863ee5da26ad086dc0e325d4a6da48b7c410364c48224a05c"
+    },
+    {
+      "path": "data/analytical/checkpoint_0000.npz",
+      "sha256": "d5c819f0e4f769b04a5a4c73a787ef05557f7058da9458dfbf97a689eddb7f5c"
+    },
+    {
+      "path": "assets/analytical/checkpoint_0200.png",
+      "sha256": "24a08c559bcc2eb6f2d735f2e7d856099565dc52d49769405c3cab784756d6e8"
+    },
+    {
+      "path": "data/analytical/checkpoint_0200.npz",
+      "sha256": "76f8bdb44618b8921ce3f5503c3348295eaf2399ed534f88d0ec2cd5440c450d"
+    },
+    {
+      "path": "assets/analytical/checkpoint_0400.png",
+      "sha256": "2ba6d5b21a10ef255118768601b65e52023f86f1fb064730d502a8cf8fa27ff6"
+    },
+    {
+      "path": "data/analytical/checkpoint_0400.npz",
+      "sha256": "3f3aa246ac98ed84583f4a69fb5df9a48bdeb370db1d807ac3753926b86b70a1"
+    },
+    {
+      "path": "assets/analytical/checkpoint_0600.png",
+      "sha256": "39327c4046f0618f2feca531c5c5054b6e0a21c88dc9b6f8fabc582f7747d8a3"
+    },
+    {
+      "path": "data/analytical/checkpoint_0600.npz",
+      "sha256": "564abb9313272658e6006c32e115e2d139204c137631c3b6608bf858d3b42d8c"
+    },
+    {
+      "path": "assets/analytical/checkpoint_0800.png",
+      "sha256": "a682ffa4e8a1ad3c470b4f0cfa554961cb7761add8dcb0becc09d7593fadb0d8"
+    },
+    {
+      "path": "data/analytical/checkpoint_0800.npz",
+      "sha256": "da569ca8f0c994c7211d9ea275207ccfd678172f6e9296769c6b204a995ce2b6"
+    },
+    {
+      "path": "assets/rl/state_flow.png",
+      "sha256": "51f06e63f7b7e7650456d03807f2311e90316b03e9059ee300488804143097d5"
+    },
+    {
+      "path": "assets/rl/checkpoint_0000.png",
+      "sha256": "d6192631640bef0d6a3d1c86a03ab0276d3ac56519af66b98a0bef6a9dd9e26d"
+    },
+    {
+      "path": "data/rl/checkpoint_0000.npz",
+      "sha256": "d5c819f0e4f769b04a5a4c73a787ef05557f7058da9458dfbf97a689eddb7f5c"
+    },
+    {
+      "path": "assets/rl/checkpoint_0200.png",
+      "sha256": "f981e5c9afa65b218394352c84f6b5ddf32c3d0cde40ba66b487ef92be570766"
+    },
+    {
+      "path": "data/rl/checkpoint_0200.npz",
+      "sha256": "027381f7c161b51bd70d208bfda7be6b27330806fdd0e9d7e1df93db9c86b829"
+    },
+    {
+      "path": "assets/rl/checkpoint_0400.png",
+      "sha256": "0e72f326f67206bb4c9c092e60784051c087485421f3d69dec45e3d5054c66b6"
+    },
+    {
+      "path": "data/rl/checkpoint_0400.npz",
+      "sha256": "a045683007e412074588770b647d7dc854773c9946ebe7afe3a43425f282a456"
+    },
+    {
+      "path": "assets/rl/checkpoint_0600.png",
+      "sha256": "590ce0d2f82a0b059be201d6fd69cd8c5dee29911cc1f3a18072198df273075c"
+    },
+    {
+      "path": "data/rl/checkpoint_0600.npz",
+      "sha256": "df2424d642e2a5b7a2320dea16b602efe3d5d7d694b242fd625d66871aac205a"
+    },
+    {
+      "path": "assets/rl/checkpoint_0800.png",
+      "sha256": "1f092abb34a62348d4c2362b9e669b962d3f5c0da6c690cd6a3afc0ab9ad9754"
+    },
+    {
+      "path": "data/rl/checkpoint_0800.npz",
+      "sha256": "ec7c5161084fa95b14b8d069430880676dce7bae7e659f466d780dd45ed41970"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2db87154957c6b61a8487c7a4359dc5073ad6ba895b1dd45a2084750d566a909"
+    },
+    {
+      "path": "index.html",
+      "sha256": "cc2c065fa82a1ba99b8fe5ff894303fbd80cf21c4e751b37a6b0018425a09ab8"
+    },
+    {
+      "path": "render_maps.py",
+      "sha256": "05d0e5221981aa55ad6f1170bf26732ea64c46ffc168c03a851280f9015a674d"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "3d20883116cd19db69a6bf3cdaa22e182f5857f7dae386f964d58ed68b479e53"
+    },
+    {
+      "path": "data/stage0_final_metrics.json",
+      "sha256": "cc8852788abcfe309ba46300b10d88e7bf7e7340525b3cb29d5c0bed681a1386"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "cb28e7fbcd62d49ff3d884e78aaec51c08b53eee27892891cfff57b6c9ed22a0"
+    }
+  ]
+}

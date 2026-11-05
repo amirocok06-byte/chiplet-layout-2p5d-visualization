@@ -24,3 +24,11 @@ render_maps.py只读取公开的预计算地图重绘，不运行优化器或训
 ## 发布边界
 
 后续更新仅限经审核的阶段0可视化白名单。不得向这里推送完整研发分支/历史、工作树、私有配置或后续实验。新增公开内容需重新审查。
+
+## 图像预览
+
+![Case7三算法指标](assets/metric_trends.png)
+
+![Case7解析法四通道状态流](assets/analytical/state_flow.png)
+
+![Case7第800步四通道](assets/analytical/checkpoint_0800.png)

@@ -1,8 +1,8 @@
 # 2.5D Chiplet：阶段0可视化展示
 
-本仓库仅公开立项答辩PPT第9–11页涉及的阶段0可视化：Case7三算法指标对比、五检查点、四通道状态流，以及Case1–10终态标量。
+本仓库仅公开阶段0可视化：Case7三算法指标对比、五检查点、四通道状态流，以及Case1–10终态标量。
 
-完整研发仓库已私有化。本仓库为独立新历史；不包含Agent/CNN/LLM实现、算法选择配置库、同状态标签、训练代码、研究计划、审核日志或答辩PPT本体。
+完整研发仓库已私有化。本仓库为独立新历史；不包含Agent/CNN/LLM实现、算法选择配置库、同状态标签、训练代码、研究计划、审核日志。
 
 直接打开[index.html](index.html)查看。GitHub文件页面也可浏览assets中的PNG。
 
@@ -19,7 +19,7 @@ python -m pip install -r requirements.txt
 python render_maps.py --algorithm analytical --step 800 --output build/Case7_analytical_0800.png
 ```
 
-render_maps.py只读取公开的预计算地图重绘，不运行优化器或训练。输出300DPI、nearest显示、16×16宏网格；样式与原归档图可能不同。原PPT风格图直接见assets。数据字段和公开文件哈希见PUBLIC_FILES.json。
+render_maps.py只读取公开的预计算地图重绘，不运行优化器或训练。输出300DPI、nearest显示、16×16宏网格；样式与原归档图可能不同。数据字段和公开文件哈希见PUBLIC_FILES.json。
 
 ## 发布边界
 
